@@ -20,11 +20,11 @@
     "release": "npx semantic-release"
   },
   "dependencies": {
-    "@nestjs/swagger": "^5.0.0",
-    "express-handlebars": "^6.0.5",
-    "httpsnippet": "^2.0.0",
-    "openapi-sampler": "^1.1.0",
-    "redoc-try-it-out": "^1.0.9"
+    "@nestjs/swagger": "5.2.1",
+    "express-handlebars": "6.0.5",
+    "httpsnippet": "2.0.0",
+    "openapi-sampler": "1.2.1",
+    "redoc-try-it-out": "1.0.9"
   },
   "devDependencies": {
     "@commitlint/cli": "17.1.2",
@@ -41,7 +41,7 @@
     "@types/jest": "29.2.0",
     "@types/node": "18.11.5",
     "@types/supertest": "2.0.12",
-    "@types/uuid": "^8.3.4",
+    "@types/uuid": "8.3.4",
     "@typescript-eslint/eslint-plugin": "5.41.0",
     "@typescript-eslint/parser": "5.41.0",
     "eslint": "8.26.0",
